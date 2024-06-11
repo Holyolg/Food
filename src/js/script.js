@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
 		field: '.offer__slider-inner'
 	});
 	forms('form', modalTimerId);
-	timer('.timer', '2023.12.12');
+	timer('.timer', '2025.12.12');
 	calc();
 
 });

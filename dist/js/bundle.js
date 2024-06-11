@@ -788,7 +788,7 @@ document.addEventListener('DOMContentLoaded', () => {
     field: '.offer__slider-inner'
   });
   (0,_modules_forms__WEBPACK_IMPORTED_MODULE_4__["default"])('form', modalTimerId);
-  (0,_modules_timer__WEBPACK_IMPORTED_MODULE_5__["default"])('.timer', '2023.12.12');
+  (0,_modules_timer__WEBPACK_IMPORTED_MODULE_5__["default"])('.timer', '2025.12.12');
   (0,_modules_calc__WEBPACK_IMPORTED_MODULE_6__["default"])();
 });
 })();
