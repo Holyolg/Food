@@ -44,7 +44,7 @@ a {
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 5vh;
+  padding: 0 3vh;
 }
 
 .divider {
@@ -230,7 +230,7 @@ a {
   top: 50px;
 }
 .offer__text {
-  width: 580px;
+  max-width: 580px;
 }
 .offer__descr {
   font-size: 18px;
@@ -726,10 +726,19 @@ padding: 0px;
     display: none;
   }
   .header__left-block {
-    min-width: 200px
+    min-width: 100px
   }
   .sidepanel {
     display: none;
+  }
+  .promotion__timer .timer__block {
+    width: 80px;
+  }
+  .promotion__timer .timer__block span {
+    font-size: 36px;
+  }
+  .header {
+    padding: 0, 3vh;
   }
 }
 
